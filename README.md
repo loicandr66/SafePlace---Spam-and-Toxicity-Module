@@ -9,3 +9,9 @@ _ RANDRIANANTENAINA Jean Carlos : Module Fake News
 ## Technologies (Module spam et toxicity)
 _ Python
 _ Tensorflow, Keras, pandas, Numpy
+_ Google Colab
+
+## Environnement
+Modèles entrainés sur Google Colab :
+_ Spam : https://colab.research.google.com/drive/1xDbYjim81XpWFSP0wZM48l3N3wVjwOPK?usp=sharing
+_ Toxicity : https://colab.research.google.com/drive/1WuhMfoT5T-ShJubTwCTTBspuioZ-3xh8?usp=sharing
